@@ -2,6 +2,10 @@
 
 Dashboard moderno em Angular 21 com Tailwind CSS, páginas de Showcase (UI, Forms, Interactive), layout responsivo, modo escuro e métricas de vendas/e-commerce. Ajustado para exibir valores em Metical (MT).
 
+<p align="center">
+  <img src="assets/dashboard.png" alt="Dashboard Ariella ERP" width="1000">
+</p>
+
 ## Requisitos
 - Node.js 20+ e npm 10+
 - Angular CLI 21 (`npm i -g @angular/cli@21`)
