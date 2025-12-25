@@ -5,6 +5,7 @@ Dashboard moderno em Angular 21 com Tailwind CSS, páginas de Showcase (UI, Form
 <p align="center">
   <img src="assets/dashboard.png" alt="Dashboard Ariella ERP" width="1000">
 </p>
+<img width="1357" height="688" alt="dashboard" src="https://github.com/user-attachments/assets/bb2aa30a-3abc-4ed2-83d3-b8f8c868107e" />
 
 ## Requisitos
 - Node.js 20+ e npm 10+
